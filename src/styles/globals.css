@@ -1,0 +1,50 @@
+.main {
+  margin: 20px;
+  height: 80vh;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  padding: 30px;
+  overflow: scroll;
+}
+
+.title {
+  text-align: center;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+main {
+  text-align: center;
+}
+
+.time {
+  text-align: left;
+  font-weight: 600;
+}
+
+p {
+  margin: 5px;
+}
+
+.smallTitle {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+span {
+  margin: 10px;
+  text-align: left;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+.description {
+  font-weight: 100;
+  font-size: 15px;
+}
+button{
+  
+}
